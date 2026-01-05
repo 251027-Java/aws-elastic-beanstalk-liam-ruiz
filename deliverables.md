@@ -1,0 +1,1 @@
+Environment URL: http://spring-eb-lab-env.eba-npudqywe.us-east-2.elasticbeanstalk.com
